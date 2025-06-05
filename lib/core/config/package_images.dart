@@ -1,7 +1,7 @@
 
 
-sealed class AppImages{
-  const AppImages._();
+sealed class PackageImages{
+  const PackageImages._();
 
 
   static const aboutUs = 'assets/images/about_us_avto.png';

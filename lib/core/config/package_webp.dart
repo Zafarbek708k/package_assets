@@ -1,5 +1,5 @@
-sealed class AppWebp{
-  const AppWebp._();
+sealed class PackageWebp{
+  const PackageWebp._();
 
 
   static const insuranceBlur = 'assets/webp/Insurance_blur_card.webp';

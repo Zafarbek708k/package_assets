@@ -1,5 +1,5 @@
-sealed class AppIcons{
-  const AppIcons._();
+sealed class PackageIcons{
+  const PackageIcons._();
 
 
   static const bell = 'assets/icons/ic_bell.svg';

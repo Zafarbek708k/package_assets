@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
           statusBarBrightness: Brightness.dark,statusBarColor: Colors.green
         ),
         bottomOpacity: 77,
-        backgroundColor: AppColors.brightSun,
+        backgroundColor: PackageColors.brightSun,
         title: Text("Package Assets"),
       ),
       body: SingleChildScrollView(
@@ -55,13 +55,13 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: Colors.green
               ),
               child: const Text(
-                'You have pushed  ${AppIcons.bell}',
+                'You have pushed  ${PackageIcons.bell}',
               ),
             ),
 
-            Image.asset(AppImages.paylovBorrov, fit: BoxFit.contain, package: "package_assets",),
+            Image.asset(PackageImages.paylovBorrov, fit: BoxFit.contain, package: "package_assets",),
 
-            Image.asset(AppWebp.insuranceBlur, fit: BoxFit.contain, package: "package_assets"),
+            Image.asset(PackageWebp.insuranceBlur, fit: BoxFit.contain, package: "package_assets"),
           ],
         ),
       ),
