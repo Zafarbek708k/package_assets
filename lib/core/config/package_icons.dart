@@ -1,5 +1,7 @@
 class PackageIcons{
-  const PackageIcons();
+  const PackageIcons._internal();
+
+  static const PackageIcons instance = PackageIcons._internal();
 
 
   static const bell = 'assets/icons/ic_bell.svg';
