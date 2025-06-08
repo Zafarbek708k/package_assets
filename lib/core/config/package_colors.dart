@@ -1,7 +1,7 @@
 import 'package:package_assets/assets_app.dart';
 
-sealed class PackageColors{
-  const PackageColors._();
+class PackageColors{
+  const PackageColors();
 
   static const white = Color(0x0fffffff);
   static const darkTurquoise = Color(0xFF02BFDF);
