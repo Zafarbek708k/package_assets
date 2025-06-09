@@ -410,6 +410,24 @@ class PackageIcons {
   String petrolInActive = 'assets/icons/ic_petrol_inactive.svg';
   String phoneCircle = 'assets/icons/ic_phone_circled.svg';
   String pinBackSpace = 'assets/icons/ic_pin_backspace.svg';
+  String like = 'assets/icons/like.svg';
+  String volumeXmark = 'assets/icons/volume-xmark.svg';
+  String soundwave = 'assets/icons/soundwave.svg';
+  String dislikeFilled = 'assets/icons/dislike_filled.svg';
+  String pin = 'assets/icons/pin.svg';
+  String radarDistanceVoice = 'assets/icons/radar_distance_voice.svg';
+  String loader = 'assets/icons/loader.svg';
+  String docBlue = 'assets/icons/ic_doc_blue.svg';
+  String uzbFlag = 'assets/icons/ic_uzb_flag.svg';
+  String cardsBlue = 'assets/icons/ic_cards_blue.svg';
+  String volumeMax = 'assets/icons/volume-max.svg';
+  String speedometerLow = 'assets/icons/speedometer_low.svg';
+  String pointer = 'assets/icons/ic_pointer.svg';
+  String layerGroup = 'assets/icons/layer-group.svg';
+  String settingsBlue = 'assets/icons/ic_settings_blue.svg';
+  String notificationBorderBlue = 'assets/icons/ic_notification_border_blue.svg';
+  String speedometerMax = 'assets/icons/speedometer_max.svg';
+  String signalSteam = 'assets/icons/signal-steam.svg';
 }
 
 // non usage
