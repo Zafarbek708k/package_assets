@@ -119,6 +119,9 @@ class PackageIcons {
   String preparing = 'assets/icons/ic_preparing.svg';
   String arrowUpRight = 'assets/icons/ic_arrow_up_right.svg';
   String refresh = 'assets/icons/ic_refresh.svg';
+  String refreshCw = 'assets/icons/refresh-cw.svg';
+  String fineRefresh = 'assets/icons/ic_fine_refresh.svg';
+  String linearArrowsRefresh = 'assets/icons/ic_linear_arrows_refresh.svg';
   String unit = 'assets/icons/ic_unit.svg';
   String carBlueBig = 'assets/icons/ic_car_blue_big.svg';
   String userImagePlaceholder = 'assets/icons/ic_user_image_placeholder.svg';
@@ -159,7 +162,7 @@ class PackageIcons {
   String fuelStation = 'assets/icons/ic_fuel_station.svg';
   String uz = 'assets/icons/ic_uz.svg';
   String paylovIcon = 'assets/icons/ic_paylov_icon.svg';
-  String fineRefresh = 'assets/icons/ic_fine_refresh.svg';
+  String smartphoneVibration = 'assets/icons/smartphone_vibration.svg';
   String uzcard = 'assets/icons/ic_uzcard.svg';
   String fuel = 'assets/icons/ic_fuel.svg';
   String flag = 'assets/icons/flag.svg';
@@ -173,7 +176,6 @@ class PackageIcons {
   String selectedNearest = 'assets/icons/ic_selected_nearest.svg';
   String navBarMiniAppsSelected = 'assets/icons/ic_nav_bar_mini_apps_selected.svg';
   String iconPlaceholder = 'assets/icons/ic_icon_placeholder.svg';
-  String linearArrowsRefresh = 'assets/icons/ic_linear_arrows_refresh.svg';
   String chevronDown = 'assets/icons/ic_chevron_down.svg';
   String building = 'assets/icons/ic_building.svg';
   String pinCodeBack = 'assets/icons/ic_pin_code_back.svg';
