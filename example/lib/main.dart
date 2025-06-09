@@ -54,8 +54,8 @@ class _MyHomePageState extends State<MyHomePage> {
               decoration: BoxDecoration(
                 color: Colors.green
               ),
-              child: const Text(
-                'You have pushed  ${PackageIcons.bell}',
+              child:  Text(
+                'You have pushed  ${PackageIcons().bell}',
               ),
             ),
 
