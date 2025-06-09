@@ -411,9 +411,11 @@ class PackageIcons {
   String phoneCircle = 'assets/icons/ic_phone_circled.svg';
   String pinBackSpace = 'assets/icons/ic_pin_backspace.svg';
   String like = 'assets/icons/like.svg';
+  String likeFilled = 'assets/icons/like_filled.svg';
+  String dislike = 'assets/icons/dislike.svg';
+  String dislikeFilled = 'assets/icons/dislike_filled.svg';
   String volumeXmark = 'assets/icons/volume-xmark.svg';
   String soundwave = 'assets/icons/soundwave.svg';
-  String dislikeFilled = 'assets/icons/dislike_filled.svg';
   String pin = 'assets/icons/pin.svg';
   String radarDistanceVoice = 'assets/icons/radar_distance_voice.svg';
   String loader = 'assets/icons/loader.svg';
