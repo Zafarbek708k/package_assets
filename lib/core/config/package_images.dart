@@ -106,4 +106,6 @@ class PackageImages {
   final techPassportExample = 'assets/images/tech_passport_example.png';
   final insuranceCompanyLogo = 'assets/images/insurance_company_logo.png';
   final finesEmpty = 'assets/images/fines_empty.png';
+  final splashLogo = 'assets/images/ic_splash_logo.png';
+  final splashLogoDark = 'assets/images/ic_splash_logo_dark.png';
 }
