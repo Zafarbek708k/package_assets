@@ -434,8 +434,8 @@ class PackageIcons {
   String signalSteam = 'assets/icons/signal-steam.svg';
   String validationUz = 'assets/icons/validation_uz.svg';
   String validationUzBlack = 'assets/icons/validation_uz_black.svg';
-  static const creditCards = 'assets/icons/credit_cards.svg';
-  static const updateDialogVector = 'assets/icons/update_dialog_vector.svg';
+  String creditCards = 'assets/icons/credit_cards.svg';
+  String updateDialogVector = 'assets/icons/update_dialog_vector.svg';
 }
 
 // non usage
