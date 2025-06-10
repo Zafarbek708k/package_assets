@@ -441,4 +441,5 @@ class PackageIcons {
   final iWattSymbol = 'assets/images/iwatt_symbol.svg';
   final appIcon = 'assets/icons/ic_app_icon.svg';
   final arrowLeft = 'assets/icons/arrow_left.svg';
+  final arrowRight = 'assets/icons/ic_arrow_right.svg';
 }
