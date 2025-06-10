@@ -108,4 +108,11 @@ class PackageImages {
   final finesEmpty = 'assets/images/fines_empty.png';
   final splashLogo = 'assets/images/ic_splash_logo.png';
   final splashLogoDark = 'assets/images/ic_splash_logo_dark.png';
+  final blackCarNavigator = 'assets/images/ic_black_car_navigator.png';
+  final operNavigator = 'assets/images/ic_oper_navigator.png';
+  final redCarNavigator = 'assets/images/ic_red_car_navigator.png';
+  final sportCar = 'assets/images/ic_sport_car.png';
+  final taxi = 'assets/images/ic_taxi.png';
+  final whiteCarNavigator = 'assets/images/ic_white_car_navigator.png';
+  final whiteSuvNavigator = 'assets/images/ic_white_suv_navigator.png';
 }
