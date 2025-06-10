@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  final dir = Directory('assets/icons');
-  final files = dir.listSync().where((file) => file is File && file.path.endsWith('.svg')).toList();
+  final dir = Directory('assets/images');
+  final files = dir.listSync().where((file) => file is File && file.path.endsWith('.png')).toList();
 
   final buffer = StringBuffer();
   buffer.writeln('final iconPaths = [');

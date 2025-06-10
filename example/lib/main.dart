@@ -33,14 +33,11 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        systemOverlayStyle: SystemUiOverlayStyle(
-          statusBarBrightness: Brightness.dark,statusBarColor: Colors.green
-        ),
+        systemOverlayStyle: SystemUiOverlayStyle(statusBarBrightness: Brightness.dark, statusBarColor: Colors.green),
         bottomOpacity: 77,
         backgroundColor: PackageColors.brightSun,
         title: Text("Package Assets"),
@@ -51,16 +48,16 @@ class _MyHomePageState extends State<MyHomePage> {
           spacing: 12,
           children: <Widget>[
             DecoratedBox(
-              decoration: BoxDecoration(
-                color: Colors.green
-              ),
-              child:  Text(
+              decoration: BoxDecoration(color: Colors.green),
+              child: Text(
                 'You have pushed  ${PackageIcons().bell}',
               ),
             ),
-
-            Image.asset(PackageImages.paylovBorrov, fit: BoxFit.contain, package: "package_assets",),
-
+            Image.asset(
+              PackageImages().paylovBorrov,
+              fit: BoxFit.contain,
+              package: "package_assets",
+            ),
             Image.asset(PackageWebp.insuranceBlur, fit: BoxFit.contain, package: "package_assets"),
           ],
         ),
@@ -74,11 +71,9 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-
-class PackageBundle extends AssetBundle{
+class PackageBundle extends AssetBundle {
   @override
   Future<ByteData> load(String key) {
     throw UnimplementedError();
   }
-
 }

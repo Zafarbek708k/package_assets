@@ -436,21 +436,5 @@ class PackageIcons {
   String validationUzBlack = 'assets/icons/validation_uz_black.svg';
   String creditCards = 'assets/icons/credit_cards.svg';
   String updateDialogVector = 'assets/icons/update_dialog_vector.svg';
+  String iWattSymbol = 'assets/images/iwatt_symbol.svg';
 }
-
-// non usage
-//  String notificationBlue = 'assets/icons/ic_notification_blue.svg';
-//  String phoneEdit = 'assets/icons/ic_phone_edit.svg';
-//  String notificationGrey = 'assets/icons/ic_notification_grey.svg';
-// String logOutIcon = 'assets/icons/ic_log_out_icon.svg';
-// String placeHolder = 'assets/icons/ic_icon_placeholder.svg';
-// String checkBox = 'assets/icons/checkbox_active.svg';
-// String flagAr = 'assets/icons/ic_ar.svg';
-// String save = 'assets/icons/ic_battery_back.svg';
-// String battery = 'assets/icons/ic_batteryChargeMinimalistic.svg';
-// String facebook = 'assets/icons/ic_facebook.svg';
-// String flash = 'assets/icons/ic_flash.svg';
-// String flash2 = 'assets/icons/ic_flash2.svg';
-// String fuelIcon = 'assets/icons/ic_fuel_icon.svg';
-// String fuel = 'assets/icons/ic_fuel.svg';
-// static  fuelPump = 'assets/icons/ic_fuel_pump.svg';
