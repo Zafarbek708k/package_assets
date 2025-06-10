@@ -1,4 +1,6 @@
 class PackageImages {
+  const PackageImages();
+
   final aboutUs = 'assets/images/about_us_avto.png';
   final paylovBorrov = 'assets/images/borrow-paylov-logo.png';
   final brokenRule = 'assets/images/broken_rule.png';
