@@ -432,6 +432,10 @@ class PackageIcons {
   String notificationBorderBlue = 'assets/icons/ic_notification_border_blue.svg';
   String speedometerMax = 'assets/icons/speedometer_max.svg';
   String signalSteam = 'assets/icons/signal-steam.svg';
+  String validationUz = 'assets/icons/validation_uz.svg';
+  String validationUzBlack = 'assets/icons/validation_uz_black.svg';
+  static const creditCards = 'assets/icons/credit_cards.svg';
+  static const updateDialogVector = 'assets/icons/update_dialog_vector.svg';
 }
 
 // non usage
