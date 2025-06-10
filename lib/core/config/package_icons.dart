@@ -440,4 +440,5 @@ class PackageIcons {
   final updateDialogVector = 'assets/icons/update_dialog_vector.svg';
   final iWattSymbol = 'assets/images/iwatt_symbol.svg';
   final appIcon = 'assets/icons/ic_app_icon.svg';
+  final arrowLeft = 'assets/icons/arrow_left.svg';
 }
