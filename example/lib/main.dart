@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
               fit: BoxFit.contain,
               package: "package_assets",
             ),
-            Image.asset(PackageWebp.insuranceBlur, fit: BoxFit.contain, package: "package_assets"),
+            Image.asset(PackageWebp().insuranceBlur, fit: BoxFit.contain, package: "package_assets"),
           ],
         ),
       ),
