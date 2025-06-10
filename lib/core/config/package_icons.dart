@@ -442,4 +442,5 @@ class PackageIcons {
   final appIcon = 'assets/icons/ic_app_icon.svg';
   final arrowLeft = 'assets/icons/arrow_left.svg';
   final arrowRight = 'assets/icons/ic_arrow_right.svg';
+  final deleteMedia = 'assets/icons/delete_media.svg';
 }
